@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch01-static-proxy/ch01-static-proxy.iml" filepath="$PROJECT_DIR$/ch01-static-proxy/ch01-static-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02-proxy-test/ch02-proxy-test.iml" filepath="$PROJECT_DIR$/ch02-proxy-test/ch02-proxy-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03-cglib-proxy/ch03-cglib-proxy.iml" filepath="$PROJECT_DIR$/ch03-cglib-proxy/ch03-cglib-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/proxy-project.iml" filepath="$PROJECT_DIR$/.idea/proxy-project.iml" />
+    </modules>
+  </component>
+</project>
